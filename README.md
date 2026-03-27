@@ -6,7 +6,7 @@ Managing student attendance manually is error-prone and difficult to maintain.
 This project provides a simple console-based system to record, update, view, and delete student attendance records stored persistently in a PostgreSQL database.
 This application is designed for learning and demonstrating database connectivity using JDBC in a real-world style project.
 
-#Features
+# Features
   * Create attendance table with a method
   * Insert new student attendance record
   * View all attendance records
@@ -22,12 +22,12 @@ This application is designed for learning and demonstrating database connectivit
   * PostgreSQL database design
   * Console-based user interaction
 
-#Technologies Used
+# Technologies Used
   *Java
   *JDBC
   *PostgreSQL Global Development Group PostgreSQL
 
-#How to Run the Project
+# How to Run the Project
   *Install Java
   *Install PostgreSQL and create a database
   *Update database username and password in the project
