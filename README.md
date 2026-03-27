@@ -23,13 +23,13 @@ This application is designed for learning and demonstrating database connectivit
   * Console-based user interaction
 
 # Technologies Used
-  *Java
-  *JDBC
-  *PostgreSQL Global Development Group PostgreSQL
+  * Java
+  * JDBC
+  * PostgreSQL Global Development Group PostgreSQL
 
 # How to Run the Project
-  *Install Java
-  *Install PostgreSQL and create a database
-  *Update database username and password in the project
-  *Run the main program
-  *Use the console menu to perform operations
+  * Install Java
+  * Install PostgreSQL and create a database
+  * Update database username and password in the project
+  * Run the main program
+  * Use the console menu to perform operations
